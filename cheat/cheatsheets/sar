@@ -1,0 +1,8 @@
+# interval count
+sar 2 5
+
+# Report activity for each block device.
+sar -d
+
+# Reports individual processor and global statistics among all processors
+sar -P ALL
